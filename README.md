@@ -1,9 +1,7 @@
 # nextcloud-notes
 
-1. Installation 
+[1. Installation NextCloud 15 on Centos 7](1.installation.md) 
 
-2. Access NextCloud using WebDAV 
+[2. Access NextCloud using WebDAV](2.acccess_webdav.md)
 
-3. Enable LDAP authentication 
-
-4. 
+[TODO] 3. Enable LDAP authentication
